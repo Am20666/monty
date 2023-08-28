@@ -1,1 +1,1 @@
-Stacks, Queues - LIFO, FIFO
+Stacks, Queues in C programming language
